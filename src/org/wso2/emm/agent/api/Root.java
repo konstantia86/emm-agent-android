@@ -31,9 +31,9 @@ public class Root {
 	*Returns true if the device is rooted (if any of the root methods returns true)
 	*/
     public boolean isDeviceRooted() {
-    	if (checkRootMethod3()){return true;}
-    	if (checkRootMethod2()){return true;}
-        if (checkRootMethod1()){return true;}
+    	//if (checkRootMethod3()){return true;}
+    	//if (checkRootMethod2()){return true;}
+        //if (checkRootMethod1()){return true;}
         
         
         return false;

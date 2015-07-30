@@ -33,8 +33,8 @@ public class CommonUtilities {
 
 	public static String SERVER_IP = "";
 
-	public static String SERVER_PORT = "9763";
-	public static String SERVER_PROTOCOL = "http://";
+	public static String SERVER_PORT = "80";
+	public static String SERVER_PROTOCOL = "https://";
 	public static String API_VERSION = "1.0.0";
 	
 	public static String SERVER_APP_ENDPOINT = "/emm/api/";
